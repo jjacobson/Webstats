@@ -1,7 +1,7 @@
 # Webstats
 
 ## Objective
-To build a visually appealing webpage displaying various user statistics from the MobArenas minecraft servers existing MySQL database.
+To build a visually appealing webpage displaying various user statistics from the MobArenas minecraft server's existing MySQL database.
 
 ## Steps Taken
 I used this project to familiarize myself with various aspects of web design. This project uses PHP to access the existing MobArenas MySQL database in order to display statistics on the various players. I made use of the https://crafatar.com/ skins API for displaying minecraft player skins along with their statistics. 
